@@ -37,7 +37,7 @@ src="https://img.shields.io/github/followers/phunlhce150297?logo=github&style=fo
 
 ### Socials
 
-<p align="left"> <a href="https://discord.com/users/464602063611887620" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.facebook.com/phunlh2001/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/phunlhce150297" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/phunlh2001/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://discord.com/users/464602063611887620" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.facebook.com/phunlh2001/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/phunlh2001" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/phunlh2001/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
@@ -45,11 +45,11 @@ src="https://img.shields.io/github/followers/phunlhce150297?logo=github&style=fo
 
 <div align="center">
 <a href="#" title="phunlh2001">
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=phunlhce150297&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=ffffff&icon_color=f97316&bg_color=22272e&hide_border=true&show_icons=true" alt="phunlhce150297's GitHub stats" /></a>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=phunlh2001&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=ffffff&icon_color=f97316&bg_color=22272e&hide_border=true&show_icons=true" alt="phunlh2001's GitHub stats" /></a>
 
 <a href="#" title="phunlh2001">
-<img align="center top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phunlhce150297&langs_count=10&title_color=f97316&text_color=ffffff&icon_color=f97316&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<img align="center top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phunlh2001&langs_count=10&title_color=f97316&text_color=ffffff&icon_color=f97316&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
   
 <a href="#" title="phunlh2001" align="center">
-<img align="left bottom" src="https://github-readme-streak-stats.herokuapp.com/?user=phunlhce150297&stroke=ffffff&background=22272e&ring=f97316&fire=f97316&currStreakNum=ffffff&currStreakLabel=f97316&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<img align="left bottom" src="https://github-readme-streak-stats.herokuapp.com/?user=phunlh2001&stroke=ffffff&background=22272e&ring=f97316&fire=f97316&currStreakNum=ffffff&currStreakLabel=f97316&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 </div>
