@@ -8,7 +8,7 @@ Web Developer
 * ✉️  You can contact me at [phunlh2001@gmail.com](mailto:phunlh2001@gmail.com)
 
 <a href="https://www.github.com/phunlhce150297" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/phunlhce150297?logo=github&style=for-the-badge&color=f97316&labelColor=22272e" /></a>
+src="https://img.shields.io/github/followers/phunlh2001?logo=github&style=for-the-badge&color=f97316&labelColor=22272e" /></a>
 
 ### Skills
 
