@@ -31,15 +31,14 @@ src="https://img.shields.io/github/followers/phunlh2001?logo=github&style=for-th
 
 <br/>
 <div align=center>
-  <a href="#" title="phunlh2001">
+  <a href="#" title="phunlh2001's GitHub stats">
     <img align="left"
          src="https://github-readme-stats.vercel.app/api?username=phunlh2001&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=ffffff&icon_color=f97316&bg_color=22272e&hide_border=true&show_icons=true"
          alt="phunlh2001's GitHub stats" /></a>
   
-  <a href="#" title="phunlh2001">
+  <a href="#" title="phunlh2001's My Streak">
     <img align="left"
          src="https://github-readme-streak-stats.herokuapp.com/?user=phunlh2001&stroke=ffffff&background=22272e&ring=f97316&fire=f97316&currStreakNum=ffffff&currStreakLabel=f97316&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="My Streak" /></a>
-  <a href="#" title="phunlh2001">
-    
+  <a href="#" title="phunlh2001's Top Languages">
      <img align="center top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phunlh2001&langs_count=10&title_color=f97316&text_color=ffffff&icon_color=f97316&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 </div>
