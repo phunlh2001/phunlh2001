@@ -7,7 +7,7 @@ Web Developer
 * 🌍  I'm based in Dong Thap, Vietnam
 * ✉️  You can contact me at [phunlh2001@gmail.com](mailto:phunlh2001@gmail.com)
 
-<a href="https://www.github.com/phunlhce150297" target="_blank" rel="noreferrer"><img
+<a href="https://www.github.com/phunlh2001" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/phunlh2001?logo=github&style=for-the-badge&color=f97316&labelColor=22272e" /></a>
 
 ### Skills
