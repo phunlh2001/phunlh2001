@@ -5,7 +5,10 @@ I am a Web Developer
 -------------
 
 * 🌍  I'm based in Dong Thap, Vietnam
+* 🖥️  See my portfolio at [here](http://phunlh2001.github.io/portfolio.phunlh2001/)
 * ✉️  You can contact me at [phunlh2001@gmail.com](mailto:phunlh2001@gmail.com)
+* 🧠  I'm learning Angular
+* ⚡  I love to code and study best practices so that I can optimize my code performance. I really care about the user experience and the safety of users when using the product. In addition, I also like to read books and listen to audio about the history/culture of countries. I also enjoy playing games with my friends in my spare time. And learn how to blog to improve yourself day by day.
 
 <a href="https://www.github.com/phunlh2001" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/phunlh2001?logo=github&style=for-the-badge&color=f97316&labelColor=22272e" /></a>
@@ -16,6 +19,7 @@ src="https://img.shields.io/github/followers/phunlh2001?logo=github&style=for-th
   <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rust-colored-dark.svg" width="36" height="36" alt="Rust" /></a>
   <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
   <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
   <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a>
