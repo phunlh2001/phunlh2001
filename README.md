@@ -7,7 +7,7 @@ I am a Web Developer
 * 🌍  I'm based in Dong Thap, Vietnam
 * 🖥️  See my portfolio at [here](http://phunlh2001.github.io/portfolio.phunlh2001/)
 * ✉️  You can contact me at [phunlh2001@gmail.com](mailto:phunlh2001@gmail.com)
-* 🧠  I'm learning Angular
+* 🧠  I'm learning C# - ASP.NET
 * ⚡  I love to code and study best practices so that I can optimize my code performance. I really care about the user experience and the safety of users when using the product. In addition, I also like to read books and listen to audio about the history/culture of countries. I also enjoy playing games with my friends in my spare time. And learn how to blog to improve yourself day by day.
 
 <a href="https://www.github.com/phunlh2001" target="_blank" rel="noreferrer"><img
