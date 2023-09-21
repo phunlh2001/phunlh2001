@@ -8,7 +8,7 @@ I am a Web Developer
 * 🖥️  See my portfolio at [here](http://phunlh2001.github.io/portfolio.phunlh2001/)
 * ✉️  You can contact me at [phunlh2001@gmail.com](mailto:phunlh2001@gmail.com)
 * 🧠  I'm learning C# - ASP.NET
-* ⚡  I love to code and research best practices related to my major so that I can optimize my code performance. I really care about the user experience and the safety of users when using the product. In addition, I also like to read books and listen to audio about the history/culture of countries. I also enjoy playing games with my friends in my free time. And write the blog to improve myself day by day.
+* ⚡  I love to code and research best practices related to my major so that I can optimize my code performance. I really care about the user experience and the safety of users when using the product. In addition, I also like to read books and listen to audio about the history/culture of countries. I also enjoy playing games with my friends in my free time. And write the blog to improve me day by day.
 
 <a href="https://www.github.com/phunlh2001" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/phunlh2001?logo=github&style=for-the-badge&color=f97316&labelColor=22272e" /></a>
