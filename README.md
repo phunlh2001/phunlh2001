@@ -5,9 +5,8 @@ I am a Web Developer
 -------------
 
 * 🌍  I'm based in Dong Thap, Vietnam
-* 🖥️  See my portfolio at [here](http://phunlh2001.github.io/portfolio.phunlh2001/)
 * ✉️  You can contact me at [phunlh2001@gmail.com](mailto:phunlh2001@gmail.com)
-* 🧠  I'm learning C# - ASP.NET
+* 🧠  I'm learning Next.Js 13
 * ⚡  I love to code and research best practices related to my major so that I can optimize my code performance. I really care about the user experience and the safety of users when using the product. In addition, I also like to read books and listen to audio about the history/culture of countries. I also enjoy playing games with my friends in my free time. And write the blog to improve me day by day.
 
 <a href="https://www.github.com/phunlh2001" target="_blank" rel="noreferrer"><img
@@ -29,7 +28,6 @@ src="https://img.shields.io/github/followers/phunlh2001?logo=github&style=for-th
   <a algin="center" href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" /></a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
 </p>
 
 ### Socials
