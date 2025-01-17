@@ -6,7 +6,7 @@ I am a Backend Developer
 
 * 🌍  I'm based in Can Tho, Vietnam
 * ✉️  You can contact me at [phunlh2001@gmail.com](mailto:phunlh2001@gmail.com)
-* 🧠  I'm learning .NET Blazor
+* 🧠  I'm learning GraphQL - HotChocolate
 * ⚡  I love to code and research best practices related to my major so that I can optimize my code performance. I really care about the user experience and the safety of users when using the product. In addition, I also like to read books and listen to audio about the history/culture of countries. I also enjoy playing games with my friends in my free time. And write the blog to improve me day by day.
 
 <a href="https://www.github.com/phunlh2001" target="_blank" rel="noreferrer"><img
