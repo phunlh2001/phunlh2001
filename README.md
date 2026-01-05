@@ -7,7 +7,7 @@ I'm a junior Backend Developer
 I love to code and research best practices related to my major so that I can optimize my code performance. I am deeply committed to ensuring the user experience and the safety of users when using our product. In addition, I also enjoy reading books and listening to audio about the history and culture of various countries. I also enjoy playing games with my friends in my free time. And write a blog to improve myself day by day.
 
 * 🌍  I'm based in Can Tho, Vietnam
-* 🖥️  See my portfolio at [phunlh2001](http://phunlh2001.netlify.app/)
+* 🖥️  See my portfolio at [MyPortfolio](http://phunlh2001.netlify.app/)
 * ✉️  You can contact me at [phunlh2001@gmail.com](mailto:phunlh2001@gmail.com)
 * 🚀  I'm currently working on [Simplify Dalat](http://www.simplifydalat.com/)
 * 🧠  I'm currently learning Mobile App development with React Native
