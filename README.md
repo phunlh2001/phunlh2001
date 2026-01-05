@@ -1,13 +1,17 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Hung Phu
 ================================================================================================================================
 
-I am a Backend Developer
+I'm a junior Backend Developer
 -------------
 
-* 🌍  I'm based in Can Tho, Vietnam
-* ✉️  You can contact me at [phunlh2001@gmail.com](mailto:phunlh2001@gmail.com)
-* 🧠  I'm learning Cyber Security
-* ⚡  I love to code and research best practices related to my major so that I can optimize my code performance. I am deeply committed to ensuring the user experience and the safety of users when using our product. In addition, I also enjoy reading books and listening to audio about the history and culture of various countries. I also enjoy playing games with my friends in my free time. And write a blog to improve myself day by day.
+I love to code and research best practices related to my major so that I can optimize my code performance. I am deeply committed to ensuring the user experience and the safety of users when using our product. In addition, I also enjoy reading books and listening to audio about the history and culture of various countries. I also enjoy playing games with my friends in my free time. And write a blog to improve myself day by day.
+
+* 🌍  I'm based in Can Tho, Vietnam
+* 🖥️  See my portfolio at [phunlh2001](http://phunlh2001.netlify.app/)
+* ✉️  You can contact me at [phunlh2001@gmail.com](mailto:phunlh2001@gmail.com)
+* 🚀  I'm currently working on [Simplify Dalat](http://www.simplifydalat.com/)
+* 🧠  I'm currently learning Mobile App development with React Native
+* 💬  I'm interested in AI, Network, and low-code.
 
 <a href="https://www.github.com/phunlh2001" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/phunlh2001?logo=github&style=for-the-badge&color=f97316&labelColor=22272e" /></a>
@@ -44,11 +48,8 @@ src="https://img.shields.io/github/followers/phunlh2001?logo=github&style=for-th
 
 ### Tools
 
-<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash.svg" width="36" height="36" alt="GNU Bash" /></a>
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a>
-<a href="https://www.vim.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vim.svg" width="36" height="36" alt="Vim" /></a>
-<a href="https://neovim.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/neovim.svg" width="36" height="36" alt="Neovim" /></a>
-<a href="https://www.sublimetext.com/index2" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sublimetext.svg" width="36" height="36" alt="Sublime Text" /></a>
+<p align="left">
+<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash-colored.svg" alt="GNU Bash" title="GNU Bash" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://www.vim.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vim-colored.svg" alt="Vim" title="Vim" width="36" height="36" /></a><a href="https://neovim.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/neovim-colored.svg" alt="Neovim" title="Neovim" width="36" height="36" /></a><a href="https://www.sublimetext.com/index2" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sublimetext-colored.svg" alt="Sublime Text" title="Sublime Text" width="36" height="36" /></a>
 </p>
 
 
@@ -66,13 +67,18 @@ src="https://img.shields.io/github/followers/phunlh2001?logo=github&style=for-th
 <div align=center>
   <a href="#" title="phunlh2001's GitHub stats">
     <img align="left"
-         src="https://github-readme-stats.vercel.app/api?username=phunlh2001&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=ffffff&icon_color=f97316&bg_color=22272e&hide_border=true&show_icons=true"
+         src="https://github-readme-stats-one-bice.vercel.app/api?username=phunlh2001&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=ffffff&icon_color=f97316&bg_color=00000000&hide_border=true&show_icons=true"
          alt="phunlh2001's GitHub stats" /></a>
   
   <a href="#" title="phunlh2001's Streak">
-    <img align="left"
-         src="https://github-readme-streak-stats.herokuapp.com/?user=phunlh2001&stroke=ffffff&background=22272e&ring=f97316&fire=f97316&currStreakNum=ffffff&currStreakLabel=f97316&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="My Streak" /></a>
+    <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=phunlh2001&stroke=ffffff&background=22272e&ring=f97316&fire=f97316&currStreakNum=ffffff&currStreakLabel=f97316&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="My Streak" /></a>
+         
   <a href="#" title="phunlh2001's Top Languages">
-     <img align="center top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phunlh2001&langs_count=5&title_color=f97316&text_color=ffffff&icon_color=f97316&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
+     <img align="center top" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=phunlh2001&langs_count=5&title_color=f97316&text_color=ffffff&icon_color=f97316&bg_color=00000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
   </a>
 </div>
+
+<br />
+<p align=center>
+  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fphunlh2001&countColor=%23263759" />
+</p>
