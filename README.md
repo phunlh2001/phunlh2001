@@ -10,7 +10,7 @@ I love to code and research best practices related to my major so that I can opt
 * 🖥️  See my portfolio at [MyPortfolio](http://phunlh2001.netlify.app/)
 * ✉️  You can contact me at [phunlh2001@gmail.com](mailto:phunlh2001@gmail.com)
 * 🚀  I'm currently working on [Simplify Dalat](http://www.simplifydalat.com/) and [LoanMart](https://www.800loanmart.com/)
-* 🧠  I'm currently learning Mobile App development with Flutter
+* 🧠  I'm currently learning Mobile App development.
 * 💬  I'm interested in AI, networking, and low-code.
 
 
